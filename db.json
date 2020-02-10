@@ -1,0 +1,25 @@
+
+
+
+{
+  "login": [
+    {
+      "username": "user",
+      "password": "pass"
+    
+    }
+  ],
+  "profile": [
+    {
+      "name": "tester",
+      "age": 24
+    }
+  ]
+
+}
+
+
+
+
+
+
